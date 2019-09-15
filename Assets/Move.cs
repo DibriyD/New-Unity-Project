@@ -6,7 +6,6 @@ public class Move : MonoBehaviour
 {
     
   [SerializeField]private float speed = 3f;
-    private bool right = true;
     private Rigidbody2D body;
     private bool facingRight = true;
     // Start is called before the first frame update

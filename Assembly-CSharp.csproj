@@ -58,6 +58,7 @@
      <Compile Include="Assets\Move.cs" />
      <Compile Include="Assets\Move2.cs" />
      <Compile Include="Assets\Move3.cs" />
+     <Compile Include="Assets\Move4.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/User/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
