@@ -55,10 +55,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Move.cs" />
-     <Compile Include="Assets\Move2.cs" />
-     <Compile Include="Assets\Move3.cs" />
-     <Compile Include="Assets\Move4.cs" />
+     <Compile Include="Assets\Scenes\pauseMenu.cs" />
+     <Compile Include="Assets\Scenes\StartMenu.cs" />
+     <Compile Include="Assets\scripts\boss.cs" />
+     <Compile Include="Assets\scripts\CameraMove.cs" />
+     <Compile Include="Assets\scripts\coin.cs" />
+     <Compile Include="Assets\scripts\enemy.cs" />
+     <Compile Include="Assets\scripts\energy.cs" />
+     <Compile Include="Assets\scripts\heal.cs" />
+     <Compile Include="Assets\scripts\Hp.cs" />
+     <Compile Include="Assets\scripts\JumpingEnemy.cs" />
+     <Compile Include="Assets\scripts\JumpOnHead.cs" />
+     <Compile Include="Assets\scripts\king.cs" />
+     <Compile Include="Assets\scripts\laser.cs" />
+     <Compile Include="Assets\scripts\load_Next_level.cs" />
+     <Compile Include="Assets\scripts\move.cs" />
+     <Compile Include="Assets\scripts\NotPlayerMovement.cs" />
+     <Compile Include="Assets\scripts\palyerController.cs" />
+     <Compile Include="Assets\scripts\platform.cs" />
+     <Compile Include="Assets\scripts\ript.cs" />
+     <Compile Include="Assets\scripts\rocket.cs" />
+     <Compile Include="Assets\scripts\saw.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/User/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
